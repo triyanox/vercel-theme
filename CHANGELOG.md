@@ -7,3 +7,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Released]
 
 - Initial release - **v1.0.0**
+- Fix a typo - **v1.0.1**
