@@ -1,0 +1,41 @@
+{
+  "name": "vercel-theme",
+  "displayName": "Vercel Theme",
+  "description": "A minimal theme based on the vercel website color palette",
+  "version": "1.0.0",
+  "publisher": "achaq",
+  "icon": "icon.png",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "vercel",
+    "dark",
+    "vscode",
+    "minimal",
+    "nextjs",
+    "dark theme",
+    "hyper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/triyanox/vercel-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/triyanox/vercel-theme/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vercel Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vercel Theme-color-theme.json"
+      }
+    ]
+  }
+}
