@@ -1,4 +1,4 @@
-# Pop Themes Dark
+# Vercel Theme
 
 The best minimal dark theme for VSCode with Vercel color palette
 
