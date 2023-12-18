@@ -2,7 +2,7 @@
   "name": "vercel-theme",
   "displayName": "Vercel Theme",
   "description": "A minimal theme based on the vercel website color palette",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "publisher": "achaq",
   "icon": "icon.png",
   "license": "MIT",
